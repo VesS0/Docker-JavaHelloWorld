@@ -3,5 +3,6 @@ public class JavaHelloWorld{
 	{
 		System.out.println("Cao svete poz");
 		System.out.println("Cao konzoloo");
+		System.out.println("Promena koda");
 	}
 }
